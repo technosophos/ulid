@@ -29,4 +29,3 @@ $ make build    # compile into ./bin/ulid
 $ make install  # compile into ./bin/ulid, then install into /usr/local/bin/ulid
 ```
 
-Hello
