@@ -2,7 +2,7 @@
 
 This is a simple command line for generating a [ULID](https://github.com/alizain/ulid).
 
-[Build status](http://acid-kashti.technosophos.me/kashti/#!/project/brigade-455e0b882e798304cf2773a8f62b472e26b1619b858c1d8ce520d5)
+[Build status](http://kashti-demo.technosophos.me/kashti/#!/project/brigade-455e0b882e798304cf2773a8f62b472e26b1619b858c1d8ce520d5)
 
 ## Usage
 
