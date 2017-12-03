@@ -29,3 +29,4 @@ $ make build    # compile into ./bin/ulid
 $ make install  # compile into ./bin/ulid, then install into /usr/local/bin/ulid
 ```
 
+Once that is done, you should be able to execute `ulid` on the command line.
